@@ -1,0 +1,7 @@
+distribute==0.6.31
+gevent==0.13.8
+greenlet==0.4.0
+pusher==0.6
+simplejson==3.0.7
+wsgiref==0.1.2
+requests==1.1.0
